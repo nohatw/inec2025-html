@@ -1,0 +1,21 @@
+
+
+a {
+    color: #127e43;
+    text-decoration: none;
+}
+
+.btn.btn-submit {
+    border-color: #120cb5;
+    background-color: #120cb5;
+}
+
+.menu-title-gray-700 .menu-item .menu-link .menu-title {
+    color: #172c9f;
+}
+
+.menu-item .menu-link .menu-title {
+    color: #172c9f;
+    font-size: 18px;
+}
+
